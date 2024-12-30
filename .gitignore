@@ -1,0 +1,13 @@
+# Ignore virtual environments
+venv/
+__pycache__/
+
+# Ignore data files
+data/*.csv
+
+# Ignore model and output files
+saved_models/*.h5
+*.csv
+
+# Ignore Jupyter notebook checkpoints
+notebooks/.ipynb_checkpoints
